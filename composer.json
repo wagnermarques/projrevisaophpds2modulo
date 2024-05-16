@@ -1,0 +1,10 @@
+{
+    "name": "wgn/projrevisaophpds2modulo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Wgn\\Projrevisaophpds2modulo\\": "src/"
+        }
+    },
+    "require": {}
+}
