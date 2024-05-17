@@ -6,8 +6,8 @@
     <title>TODO LIST</title>
 </head>
 <body>
-    <h1>tODO LIST</h1>
+    <h1>TODO LIST</h1>
     <?php
-        include 'src/main.php' ?>
+        include 'main.php' ?>
 </body>
 </html>
