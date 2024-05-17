@@ -8,6 +8,6 @@
 <body>
     <h1>tODO LIST</h1>
     <?php
-        echo "Hello World!"; ?>
+        include 'src/main.php' ?>
 </body>
 </html>
